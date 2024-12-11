@@ -25,7 +25,7 @@ class ToDoTile extends StatelessWidget {
             Text(taskName)
           ],
         ),
-        color: Colors.blue,
+        color: Colors.yellow,
       ),
     );
   }
